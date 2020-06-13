@@ -1,0 +1,11 @@
+# Ignore temp files
+*~
+
+# Ignore other junk files
+*.backup
+*.kate-swp
+*.swp
+
+#Ignore generated files
+*.class
+
